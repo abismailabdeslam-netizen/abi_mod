@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS order_items;
+DROP TABLE IF EXISTS orders;
+DROP TABLE IF EXISTS reviews;
+DROP TABLE IF EXISTS settings;
+DROP TABLE IF EXISTS activity_logs;
+DROP TABLE IF EXISTS shipping_matrix;
+DROP TABLE IF EXISTS shipping_configs;
+DROP TABLE IF EXISTS delivery_companies;
+DROP TABLE IF EXISTS products;
+DROP TABLE IF EXISTS categories;
+DROP TABLE IF EXISTS users;
